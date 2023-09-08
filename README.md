@@ -51,6 +51,8 @@ From here you can get the data, design the control algorithm, and upload the mod
             
             pip install streamlit
 
+            pip install gym
+
 
 注上述的mpctools工具并非我们所需要的， 但安装mpctools可以自动安装常用的依赖包，方便。**一个缺点就是mpctools仅支持python3.6**。
 
