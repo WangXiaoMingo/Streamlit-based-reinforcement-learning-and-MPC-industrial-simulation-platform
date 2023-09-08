@@ -70,7 +70,9 @@ pip install casadi
 
 进入到mpctoolssetup.py菜单，输入cmd，进入命令行，此时为：D:\Users\Administrator\anaconda3\envs\tf2.6_torch1.10\Lib\site-packages\mpc-tools-casadi>
 
-下一步激活环境：conda activate tf2.6_torch1.10
+下一步激活环境：
+
+conda activate tf2.6_torch1.10
 
 即可看到在虚拟环境中：(tf2.6_torch1.10) D:\Users\Administrator\anaconda3\envs\tf2.6_torch1.10\Lib\site-packages\mpc-tools-casadi>
 
